@@ -144,7 +144,7 @@ static const Rule rules[] = {
 	RULE(.wintype = WTYPE "TOOLBAR", .isfloating = 1)
 	RULE(.wintype = WTYPE "SPLASH", .isfloating = 1)
 	RULE(.class = "feh", .isfloating = 1)
-	RULE(.class = "mpv", .isfloating = 1)
+	
 };
 
 /* Bar rules allow you to configure what is shown where on the bar, as well as
@@ -205,7 +205,7 @@ static const char *dmenucmd[] = {
 	"-sf", selfgcolor,
 	NULL
 };
-static const char *termcmd[]  = { "alacritty", NULL };
+static const char *termcmd[]  = { "st", NULL };
 static const char *flameshot[] = { "flameshot", "gui", NULL };
 
 static const Key keys[] = {
