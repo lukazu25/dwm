@@ -5,7 +5,7 @@ static const Block blocks[] = {
 
   {" ", "echo \"$(cat /sys/class/power_supply/BAT0/capacity)%\"", 15, 0},
 
-  {" " , "curl -s 'wttr.in/Tashkent?format=%t'", 300, 0},
+  {" " , "curl -s 'wttr.in/Tbilisi?format=%t'", 300, 0},
 
 	{" " , "date '+%d.%m'", 60, 0},
 	{" ", "date '+%H:%M  '", 5, 0},
