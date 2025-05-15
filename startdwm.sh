@@ -1,7 +1,7 @@
 #!/bin/sh
 
 xrandr --output eDP --mode 1920x1080
-setxkbmap -layout us,ru,ge -option 'grp:alt_shift_toggle'
+setxkbmap -layout us,ru,ge -option 'grp:alt_space_toggle'
 nitrogen --restore &
 slstatus &
 
