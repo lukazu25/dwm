@@ -1,4 +1,5 @@
-#include "gruvbox.h"
+#include "mytheme.h"
+/* #include "gruvbox.h" */
 /* #include "BlackandWhite.h" */
 
 /* appearance */
