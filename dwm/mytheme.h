@@ -1,0 +1,5 @@
+static const char col_gray1[]   = "#0a0f14"; // very dark blue-gray (background)
+static const char col_gray2[]   = "#1c2526"; // slightly lighter gray (secondary elements)
+static const char col_gray3[]   = "#c5c8c6"; // light gray (foreground/text)
+static const char col_gray4[]   = "#0a0f14"; // very dark blue-gray (background again)
+static const char col_accent[]  = "#66cccc"; // cyan (accent)
