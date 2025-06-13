@@ -2,7 +2,7 @@ DWM
 
 
 ```bash
-cp startdwm.sh /usr/local/bin/
+sudo cp startdwm.sh /usr/local/bin/
 ```
 
 If you use a display manager
