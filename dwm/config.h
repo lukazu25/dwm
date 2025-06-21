@@ -2,6 +2,7 @@
 /* #include "gruvbox.h" */
 /* #include "gruvbox-light.h" */
 /* #include "BlackandWhite.h" */
+/* #include "titus.h" */
 
 /* appearance */
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
