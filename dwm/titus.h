@@ -12,3 +12,6 @@ static const char *colors[][3] = {
     [SchemeSel]  = { selfgcolor,      selbgcolor,    selbordercolor },
     [SchemeHid]  = { selbordercolor,  normbgcolor,   selbordercolor  },
 };
+
+/* For titus theme use this dmenu */
+/* static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL }; */
