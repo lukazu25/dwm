@@ -3,6 +3,7 @@
 /* #include "gruvbox-light.h" */
 /* #include "BlackandWhite.h" */
 /* #include "nord.h" */
+/* #include "solarized.h" */
 
 /* appearance */
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
