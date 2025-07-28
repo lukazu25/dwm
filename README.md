@@ -34,3 +34,7 @@ ExecStart=/usr/local/bin/slock
 WantedBy=sleep.target
 ```
 Enable the `slock@user.service` systemd unit for it to take effect for the username user
+
+```
+sudo systemctl enable slock@username.service
+```
