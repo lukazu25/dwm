@@ -1,9 +1,4 @@
 #include "themes/mytheme.h"
-/* #include "themes/gruvbox.h" */
-/* #include "themes/gruvbox-light.h" */
-/* #include "themes/BlackandWhite.h" */
-/* #include "themes/nord.h" */
-/* #include "themes/solarized.h" */
 
 /* appearance */
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
